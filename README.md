@@ -101,8 +101,6 @@
 </table> -->
 
 <h1 align="center">Technologies</h1>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=a33550&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=a33550&style=plastic&logo=css3"/>
