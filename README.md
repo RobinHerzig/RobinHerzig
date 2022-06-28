@@ -15,14 +15,13 @@
 <P>I am motivated to use technology as a tool for positive change, with a background in science, technology, and business management.</p>
 
 <h1 align="center">Projects</h1>
-<P>More information coming soon!</p>
 
-<!-- <table bordercolor="#66b2b2">
+<table bordercolor="#66b2b2">
   
   <tr>
     
     <td width="50%" valign="top">
-      <h3 align="center">PLACEHOLDER NAME</h3>
+      <h3 align="center">Andre D'avis Men's Salon</h3>
       <br />
       <a target="_blank" href=PLACEHOLDER LINK">
           <img src="images/gif1.gif" width="100%" alt="PLACEHOLDER ALT"/>
@@ -98,7 +97,7 @@
     </td>
     
   </tr>
-</table> -->
+</table>
 
 <h1 align="center">Technologies</h1>
 <p align="center">
