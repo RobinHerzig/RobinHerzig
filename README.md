@@ -32,10 +32,10 @@
         <br />
         <p align="center">
           <a href="https://golden-goblet-lounge.herokuapp.com/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=\|&message=WEBSITE&color=3552a3&style=plastic&logo=wordpress&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3552a3&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
           <a href="https://github.com/RobinHerzig/Golden-Goblet-Lounge" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=\|&message=REPO&color=3552a3&style=plastic&logo=github&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=3552a3&style=plastic&logo=github&logo-color=white"/>
            </a>
         </p>
         <p align="center"><strong>HTML, CSS, JavaScript, Node.js, Express, EJS, Git</strong></p>
@@ -52,10 +52,10 @@
         <br />
         <p align="center">
           <a href="https://andre-davis.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=\|&message=WEBSITE&color=3552a3&style=plastic&logo=wordpress&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3552a3&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
           <a href="https://github.com/RobinHerzig/Andre-Davis" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=\|&message=REPO&color=3552a3&style=plastic&logo=github&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=3552a3&style=plastic&logo=github&logo-color=white"/>
           </a>
         </p>
         <p align="center"><strong>HTML, CSS, JavaScript</strong></p>
