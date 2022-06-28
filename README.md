@@ -16,7 +16,7 @@
 
 <P>I am motivated to use technology as a tool for positive change, with a background in science, technology, and business management.</p>
 
-
+<br />
 <h1 align="center">Projects</h1>
 
 <table bordercolor="#66b2b2">
@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-
+<br />
 <h1 align="center">Technologies</h1>
 <br />
 <p align="center">
