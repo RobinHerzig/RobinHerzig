@@ -1,4 +1,4 @@
-<img src="https://imgur.com/eySwlTg.jpg" width="100%" align="center">
+<img src="https://github.com/RobinHerzig/RobinHerzig/blob/main/images/signature.jpg" width="100%" align="center">
 
 <p align="center">
   <a href="https://robinherzig.netlify.app/" target="_blank">
@@ -14,92 +14,17 @@
 
 <P>I am motivated to use technology as a tool for positive change, with a background in science, technology, and business management.</p>
 
+
 <h1 align="center">Projects</h1>
 
-<!-- <table bordercolor="#66b2b2">
-  
-  <tr>
-    
-    <td width="50%" valign="top">
-      <h3 align="center">Andre D'avis Men's Salon</h3>
-      <br />
-      <a target="_blank" href=PLACEHOLDER LINK">
-          <img src="images/gif1.gif" width="100%" alt="PLACEHOLDER ALT"/>
-      </a>
-      <br />
-      <p align="center">
-        <a href="PLACEHOLDER GIT LINK" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>  
-        <a href="PLACEHOLDER WEBSITE" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>HTML5, CSS3, Javascript, Node.js, Express, EJS</strong> - PLACEHOLDER DESCRIPTION!</p>
-    </td>
-                                                                                                                                        
-    <td width="50%" valign="top">
-      <h3 align="center">PLACEHOLDER NAME</h3>
-      <br />
-      <a target="_blank" href=PLACEHOLDER LINK">
-          <img src="images/gif1.gif" width="100%" alt="PLACEHOLDER ALT"/>
-      </a>
-      <br />
-      <p align="center">
-        <a href="PLACEHOLDER GIT LINK" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>  
-        <a href="PLACEHOLDER WEBSITE" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>HTML5, CSS3, Javascript, Node.js, Express, EJS</strong> - PLACEHOLDER DESCRIPTION!</p>
-    </td>
-    
-  </tr>
-  
-  <tr>
-    
-    <td width="50%" valign="top">
-      <h3 align="center">PLACEHOLDER NAME</h3>
-      <br />
-      <a target="_blank" href=PLACEHOLDER LINK">
-          <img src="images/gif1.gif" width="100%" alt="PLACEHOLDER ALT"/>
-      </a>
-      <br />
-      <p align="center">
-        <a href="PLACEHOLDER GIT LINK" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>  
-        <a href="PLACEHOLDER WEBSITE" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>HTML5, CSS3, Javascript, Node.js, Express, EJS</strong> - PLACEHOLDER DESCRIPTION!</p>
-    </td>
-                                                                                                                                        
-    <td width="50%" valign="top">
-      <h3 align="center">PLACEHOLDER NAME</h3>
-      <br />
-      <a target="_blank" href=PLACEHOLDER LINK">
-          <img src="images/gif1.gif" width="100%" alt="PLACEHOLDER ALT"/>
-      </a>
-      <br />
-      <p align="center">
-        <a href="PLACEHOLDER GIT LINK" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>  
-        <a href="PLACEHOLDER WEBSITE" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>HTML5, CSS3, Javascript, Node.js, Express, EJS</strong> - PLACEHOLDER DESCRIPTION!</p>
-    </td>
-    
-  </tr>
-</table> -->
+
+| <h3>Golden Goblet Lounge</h3><br><img width="75%" src="https://github.com/RobinHerzig/RobinHerzig/blob/main/images/goldengobletlounge.jpg"><br><a href="https://golden-goblet-lounge.herokuapp.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=\|&message=WEBSITE&color=3552a3&style=plastic&logo=wordpress&logo-color=white"/> </a><a href="https://github.com/RobinHerzig/Golden-Goblet-Lounge" target="_blank"><img src="https://img.shields.io/static/v1?label=\|&message=REPO&color=3552a3&style=plastic&logo=github&logo-color=white"/></a><br><br><p>Find your next favorite cocktail using our latest search engine! Golden Goblet Lounge is a straightforward full-stack platform to search for recipes and track your favorites.</p> | <h3>Men's Salon by André D'Avis</h3><br><img width="75%" src="https://github.com/RobinHerzig/RobinHerzig/blob/main/images/andredavis.jpg"><br><a href="https://andre-davis.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=\|&message=WEBSITE&color=3552a3&style=plastic&logo=wordpress&logo-color=white"/></a> <a href="https://github.com/RobinHerzig/Andre-Davis" target="_blank"><img src="https://img.shields.io/static/v1?label=\|&message=REPO&color=3552a3&style=plastic&logo=github&logo-color=white"/></a><br><br><p>Men's Salon by André D'Avis is an upscale business in DFW. They provide hair care, shaving, massages, and more. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> |
+|:---:|:---:|
+
 
 <h1 align="center">Technologies</h1>
+
+
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=a33550&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=a33550&style=plastic&logo=css3"/>
