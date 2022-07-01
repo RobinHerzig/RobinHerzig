@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<P>I am motivated to use technology as a tool for positive change, with a background in science, technology, and business management.</p>
+<P>My motivation is using technology as a tool to improve public health and safety.</p>
 
 <h1 align="center">Projects</h1>
 
