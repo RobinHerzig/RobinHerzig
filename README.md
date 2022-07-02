@@ -14,7 +14,9 @@
   </a>
 </p>
 
-<P>My motivation is using technology as a tool to improve public health and safety.</p>
+<P>Former 911 dispatcher motivated to build tools to improve public health and safety.</p>
+
+<p>Cumulative 2 years living in Antarctica.</p>
 
 <h1 align="center">Projects</h1>
 
