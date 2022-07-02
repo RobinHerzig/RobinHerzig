@@ -18,6 +18,8 @@
 
 <p>Cumulative 2 years living in Antarctica.</p>
 
+<p>Learn more by visiting my website: <a href="https://robinherzig.netlify.app/" target="_blank">https://robinherzig.netlify.app/</a>
+
 <h1 align="center">Projects</h1>
 
 <table bordercolor="#66b2b2">
