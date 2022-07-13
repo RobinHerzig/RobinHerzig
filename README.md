@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<P>Former 911 dispatcher motivated to build tools to improve public health and safety.</p>
+<P>911 dispatcher motivated to build tools to improve public health and safety.</p>
 
 <p>Cumulative 2 years living in Antarctica.</p>
 
