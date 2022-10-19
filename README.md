@@ -25,7 +25,7 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Golden Goblet Lounge</h3>
+      <h3 align="center">Beverly Lounge</h3>
         <br />
           <p align="center">
             <a align="center" target="_blank" href="https://golden-goblet-lounge.herokuapp.com/">
@@ -42,7 +42,7 @@
            </a>
         </p>
         <p align="center"><strong>HTML, CSS, JavaScript, Node.js, Express, EJS, Git</strong></p>
-        <p>Find your next favorite cocktail using our latest search engine! Golden Goblet Lounge is a straightforward full-stack platform to search for recipes and track your favorites.</p>
+        <p>Find your next favorite cocktail using our latest search engine! Beverly Lounge is a straightforward full-stack platform to search for recipes and track your favorites.</p>
     </td>
         <td width="50%" valign="top">
       <h3 align="center">Men's Salon by André D'Avis</h3>
