@@ -62,7 +62,7 @@
           </a>
         </p>
         <p align="center"><strong>HTML, CSS, JavaScript</strong></p>
-        <p>Men's Salon by André D'Avis is an upscale business in DFW. They provide hair care, shaving, massages, and more.</p>
+        <p>Men's Salon by André D'Avis is an upscale business in DFW that provides hair care, shaving, massages, and more.</p>
     </td>
   </tr>
 </table>
