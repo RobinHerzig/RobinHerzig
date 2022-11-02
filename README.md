@@ -53,16 +53,16 @@
       <h3 align="center">Beverly Lounge</h3>
         <br />
           <p align="center">
-            <a align="center" target="_blank" href="https://golden-goblet-lounge.herokuapp.com/">
+            <a align="center" target="_blank" href="https://beverlylounge.onrender.com/">
             <img width="75%" src="https://github.com/RobinHerzig/RobinHerzig/blob/main/images/goldengobletlounge.jpg">
           </p>
         </a>
         <br />
         <p align="center">
-          <a href="https://golden-goblet-lounge.herokuapp.com/" target="_blank">
+          <a href="https://beverlylounge.onrender.com/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3552a3&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
-          <a href="https://github.com/RobinHerzig/Golden-Goblet-Lounge" target="_blank">
+          <a href="https://github.com/RobinHerzig/Beverly-Lounge" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=3552a3&style=plastic&logo=github&logo-color=white"/>
            </a>
         </p>
