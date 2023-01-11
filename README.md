@@ -14,11 +14,7 @@
   </a>
 </p>
 
-<p>Global emergency service employee motivated to build tools that improve public health and safety.</p>
-
-<p>Throughout my 8 years of working in emergency services, including 4 years with the Antarctica Fire Department, I've taken multiple opportunities to build software and systems that contribute directly towards the workplace. Projects include software critical for the safety of airfield ground crew and improving our environmental emergency response workflow (for which I won a department award for saving hundreds of man hours per season).</p>
-
-<p>In addition, frustrated by the lack of adequate CAD (computer-aided dispatch) software, I sought to create my own. After several revisions, I'm happy to release First Line Response so that it may help agencies who cannot afford their own. Furthermore, I'm excited to continue my journey as a software engineer by taking on new projects and solving new problems.</p>
+<p>Experienced in emergency services and software engineering. Motivated to build tools that improve public health and safety.</p>
 
 <p>Learn more by visiting my website: <a href="https://robinherzig.netlify.app/" target="_blank">https://robinherzig.netlify.app/</a>
 
