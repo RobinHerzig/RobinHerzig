@@ -14,9 +14,8 @@
   </a>
 </p>
 
-<p>Experienced in emergency services and software engineering. Motivated to build tools that improve public health and safety.</p>
-
-<p>Learn more by visiting my website: <a href="https://robinherzig.netlify.app/" target="_blank">https://robinherzig.netlify.app/</a>
+<p>From emergency operations to software engineering - building tools to improve public health and safety.</p>
+<p>Visit my website: <a href="https://robinherzig.netlify.app/" target="_blank">https://robinherzig.netlify.app/</a></p>
 
 <h1 align="center">Projects</h1>
 
